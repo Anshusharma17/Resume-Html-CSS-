@@ -1,0 +1,180 @@
+body {
+  margin: 0px;
+  background-color: rgb(250, 242, 231);
+}
+.intro {
+  position: absolute;
+  top: 30%;
+  left: 30%;
+  color: #345234;
+  font-family: "Grape Nuts", cursive, serif;
+}
+.name {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 8rem;
+}
+.details {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  text-align: center;
+}
+.head {
+  position: relative;
+  background-color: antiquewhite;
+  padding: 400px 0 0 0;
+}
+
+.mountain {
+  position: relative;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.top_cloud {
+  position: absolute;
+  top: 20%;
+  right: 15%;
+}
+.down_cloud {
+  position: absolute;
+  top: 60%;
+  left: 15%;
+}
+
+.mid {
+  margin: 100px 0;
+}
+.anshu {
+  position: relative;
+  border-radius: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+h2 {
+  /* position: relative; */
+  text-align: center;
+  color: #345234;
+  font-family: "Nunito", sans-serif;
+}
+.intro1 {
+  margin: 0% 30%;
+  padding: 0%;
+}
+
+.hr1 {
+  border-style: dotted;
+  border-top: 100px;
+  width: 10%;
+  border-width: 8px;
+  color: rgb(255, 220, 175);
+}
+
+.hello {
+  margin: 3% 0% 1% 0%;
+}
+.skill {
+  margin: 5% 0%;
+}
+h3 {
+  color: #345234;
+  font-family: "Nunito", sans-serif;
+}
+.pic {
+  border-radius: 80%;
+  float: left;
+  margin-right: 20px;
+}
+
+.d1 {
+  text-align: left;
+  margin: 0px 30%;
+}
+
+.d2 {
+  text-align: left;
+  margin: 100px 30%;
+}
+.java {
+  border-radius: 50%;
+  float: right;
+  margin-left: 20px;
+}
+.footer {
+  margin-top: 100px;
+}
+.get {
+  margin-top: 100px;
+}
+.blank {
+  text-align: center;
+}
+.d3 {
+  text-align: center;
+}
+.myButton {
+  box-shadow: 0px 10px 14px -7px rgb(255, 213, 159);
+  background: linear-gradient(
+    to bottom,
+    rgb(255, 221, 176) 5%,
+    rgb(247, 185, 105) 100%
+  );
+  background-color: rgb(255, 214, 160);
+  border-radius: 8px;
+  display: inline-block;
+  cursor: pointer;
+  color: #ffffff;
+  font-family: "Nunito", sans-serif;
+  font-size: 20px;
+  font-weight: bold;
+  padding: 13px 32px;
+  text-decoration: none;
+  text-shadow: 0px 1px 0px rgb(255, 199, 126);
+  position: relative;
+  margin: 0px 43.5% 0px 43.5%;
+}
+
+.myButton:hover {
+  background: linear-gradient(
+    to bottom,
+    rgb(255, 215, 163) 5%,
+    rgb(255, 201, 131) 100%
+  );
+  background-color: rgb(255, 185, 95);
+}
+
+.myButton:active {
+  position: relative;
+  top: 1px;
+}
+.copyright {
+  /* padding-left: 1px; */
+  color: #eaf6f6;
+  font-size: 0.75rem;
+  text-align: center;
+}
+.footer {
+  padding-top: 50px;
+  text-align: center;
+  margin: 20px 0 0 0;
+  background-color: rgb(252, 224, 187);
+}
+.footer_link {
+  text-decoration: none;
+}
+div.footer a:link {
+  color: #f8f5f5;
+  position: relative;
+  font-family: "Nunito", sans-serif;
+  font-size: 1.5rem;
+  margin-top: 0;
+  padding-top: 0;
+  bottom: 10px;
+  font-style: normal;
+}
+a {
+  color: rgb(247, 168, 58);
+}
